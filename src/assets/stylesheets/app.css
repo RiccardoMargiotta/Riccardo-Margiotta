@@ -1,6 +1,7 @@
 :root {
   /* Colours */
   --bg: #fafafa;
+  --accent: #9999cc;
 
   /* Breakpoints */
   --xs: 480px;
@@ -62,7 +63,7 @@ p {
 }
 
 hr {
-  background-color: #e5e5e5;
+  background-color: var(--accent);
   border: 0;
   height: 1px;
   margin: 40px 0;
@@ -81,7 +82,7 @@ li {
 }
 
 li:before {
-  background-color: #e5e5e5;
+  background-color: var(--accent);
   border-radius: 50%;
   content: "";
   height: 8px;
