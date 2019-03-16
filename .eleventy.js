@@ -1,6 +1,7 @@
 module.exports = {
   dir: {
     input: "src",
-    output: "_site"
+    output: "dist",
+    includes: "_includes"
   }
 };
