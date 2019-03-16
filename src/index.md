@@ -9,24 +9,36 @@ A little bit about me. (More coming soon.)
 ---
 
 ## Lead Engineer (Web Team)
-Arnold Clark | July 2018 - present
+
+**Arnold Clark**
+
+*July 2018 - present*
 
 ---
 
 ## Front End Engineer
-Arnold Clark | April 2014 - July 2018
+
+**Arnold Clark**
+
+*April 2014 - July 2018*
 
 ---
 
 ## Front End Web Developer (contract)
-AmazeRealise | February 2014 - March 2014
+
+**AmazeRealise**
+
+*February 2014 - March 2014*
 
 - Built the front-end for the design agency's client, completed in four weeks
 
 ---
 
 ## Digital Communications Consultant
-Aegon UK | August 2013 - February 2014
+
+**Aegon UK**
+
+*August 2013 - February 2014*
 
 - Completed a full site audit and edited content in advance of a migration to a new CMS
 - Investigated options for an automated site quality checking tool, obtained stakeholder buy-in, and implemented the new tool into workflow
@@ -35,7 +47,10 @@ Aegon UK | August 2013 - February 2014
 ---
 
 ## Website Publisher (contract)
-Forestry Commission Scotland | May 2013 - August 2013
+
+**Forestry Commission Scotland**
+
+*May 2013 - August 2013*
 
 - Created 150+ content pages and developed the site structure for a large relaunch of the FCS website
 - Performed visual and functionality testing, reporting issues to the external development group
@@ -44,7 +59,10 @@ Forestry Commission Scotland | May 2013 - August 2013
 ---
 
 ## Web Content Developer (contract)
-Tesco Bank | October 2011 - January 2013
+
+**Tesco Bank**
+
+*October 2011 - January 2013*
 
 - Worked on a project team responsible for moving Tesco Bank to a new Responsive design, the first UK bank to do so
 - Optimised and migrated hundreds of pages and images, and completed extensive site testing across multiple browsers, operating systems, mobile devices, and screen resolutions
@@ -52,14 +70,20 @@ Tesco Bank | October 2011 - January 2013
 ---
 
 ## Communications Consultant / Website Administrator
-Aegon UK | April 2008 - October 2011
+
+**Aegon UK**
+
+*April 2008 - October 2011*
 
 - Ran a staff intranet site and worked with contributors to provide daily content updates
 
 ---
 
 ## Customer Service Representative
-Aegon UK | May 2006 to March 2008
+
+**Aegon UK**
+
+*May 2006 to March 2008*
 
 - Involved in process improvement initiatives, taking part in Lean Six Sigma awareness training
 - Mentor in an onboarding team created to provide a supportive environment for new starts, provided training for 13 new employees
@@ -67,13 +91,19 @@ Aegon UK | May 2006 to March 2008
 ---
 
 ## Design Editor
-eh publications LLP | November 2001 - October 2004
+
+**eh publications LLP**
+
+*November 2001 - October 2004*
 
 - As part of a university start-up publishing company, launched a commercial Edinburgh-based lifestyle magazine
 
 ---
 
 ## BA Degree in Journalism
-Edinburgh Napier University | August 2000 - July 2003
+
+**Edinburgh Napier University**
+
+*August 2000 - July 2003*
 
 - Deputy editor and designer on the student newspaper, created new design templates, and produced each issue
