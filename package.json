@@ -12,6 +12,7 @@
     "dev": "eleventy --serve"
   },
   "dependencies": {
-    "@11ty/eleventy": "^0.7.1"
+    "@11ty/eleventy": "^0.7.1",
+    "prettier": "^1.16.4"
   }
 }
