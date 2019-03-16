@@ -9,7 +9,8 @@
   "license": "ISC",
   "scripts": {
     "build": "eleventy",
-    "dev": "eleventy --serve"
+    "dev": "eleventy --serve",
+    "prettier": "prettier ./**/*.{js,scss} --write"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.7.1",
