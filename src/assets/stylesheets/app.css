@@ -42,8 +42,8 @@ h1 {
 }
 
 h2 {
-  color: rgba(0, 0, 0, 0.8);
-  font-size: 24px;
+  color: #333;
+  font-size: 28px;
   margin-bottom: 16px;
 }
 
@@ -101,7 +101,9 @@ li + li {
 }
 
 strong {
+  color: #333;
   font-family: "Playfair Display", serif;
+  font-size: 20px;
   font-weight: 700;
 }
 
