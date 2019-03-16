@@ -30,7 +30,7 @@ A little bit about me. (More coming soon.)
 
 *February 2014 - March 2014*
 
-- Built the front-end for the design agency's client, completed in four weeks
+- Built the front-end for the design agency’s client, completed in four weeks
 
 ---
 
@@ -107,3 +107,5 @@ A little bit about me. (More coming soon.)
 *August 2000 - July 2003*
 
 - Deputy editor and designer on the student newspaper, created new design templates, and produced each issue
+
+---
