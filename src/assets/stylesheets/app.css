@@ -12,6 +12,7 @@
 body {
   background-color: var(--bg);
   display: flex;
+  font-family: 'Lato', sans-serif;
   justify-content: center;
   margin: 0;
 }
