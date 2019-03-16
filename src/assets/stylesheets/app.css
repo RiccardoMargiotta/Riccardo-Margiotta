@@ -32,18 +32,17 @@ h4,
 h5,
 h6 {
   font-family: "Playfair Display", serif;
+  font-weight: 700;
   line-height: 1.25;
   margin: 0;
 }
 
 h1 {
   font-size: 36px;
-  font-weight: 700;
 }
 
 h2 {
   font-size: 24px;
-  font-weight: 400;
   margin-bottom: 16px;
 }
 
