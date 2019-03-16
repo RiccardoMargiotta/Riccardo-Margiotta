@@ -11,5 +11,12 @@
 
 body {
   background-color: var(--bg);
+  display: flex;
+  justify-content: center;
   margin: 0;
+}
+
+.container {
+  max-width: 600px;
+  width: 100%;
 }
