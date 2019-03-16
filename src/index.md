@@ -4,7 +4,6 @@ layout: layouts/base
 ---
 
 # Riccardo Margiotta
-A little bit about me. (More coming soon.)
 
 ---
 
