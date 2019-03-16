@@ -1,7 +1,7 @@
 {
   "scripts": {
-    "build": "eleventy --input=src --output=_site",
-    "dev": "eleventy --serve --input=src --output=_site"
+    "build": "eleventy",
+    "dev": "eleventy --serve"
   },
   "dependencies": {
     "@11ty/eleventy": "^0.7.1"
