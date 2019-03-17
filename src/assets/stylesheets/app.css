@@ -27,7 +27,7 @@ body {
   font-size: 2.5rem;
   font-weight: 400;
   justify-content: center;
-  margin: 40px 16px;
+  margin: 0 16px;
 }
 
 h1,
@@ -42,6 +42,7 @@ h3 {
 h1 {
   color: hsl(0, 0%, 14%);
   font-size: 4rem;
+  margin: 40px 0 80px;
 }
 
 @media only screen and (min-width: 768px) {
@@ -65,16 +66,9 @@ p {
   line-height: 1.5;
 }
 
-hr {
-  background-color: #e5e5e5;
-  border: 0;
-  height: 1px;
-  margin: 40px 0;
-}
-
 ul {
   list-style-type: none;
-  margin: 16px 0;
+  margin: 16px 0 80px;
   padding-left: 0;
 }
 
@@ -114,12 +108,8 @@ em {
     font-size: 6px;
   }
 
-  body {
-    margin: 8px 0;
-  }
-
-  hr {
-    margin: 0 0 20px;
+  h1 {
+    margin: 20px 0;
   }
 
   h3 {
@@ -133,6 +123,7 @@ em {
 
   ul {
     list-style-type: disc;
+    margin-bottom: 20px;
     padding-left: 40px;
   }
 
