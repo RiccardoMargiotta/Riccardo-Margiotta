@@ -27,10 +27,8 @@ body {
 
 h1,
 h2,
-h3,
-h4,
-h5,
-h6 {
+h3 {
+  color: #333;
   font-family: "Playfair Display", serif;
   font-weight: 900;
   line-height: 1.25;
@@ -38,13 +36,8 @@ h6 {
 }
 
 h1 {
+  color: #000;
   font-size: 36px;
-}
-
-h2 {
-  color: #333;
-  font-size: 28px;
-  margin-bottom: 16px;
 }
 
 @media only screen and (min-width: 768px) {
@@ -53,8 +46,20 @@ h2 {
   }
 }
 
+h2 {
+  font-size: 28px;
+  margin-bottom: 16px;
+}
+
+h3 {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 4px;
+}
+
 p {
   margin: 0;
+  line-height: 1.5;
 }
 
 hr {
@@ -94,13 +99,6 @@ li + li {
 .container {
   max-width: 600px;
   width: 100%;
-}
-
-strong {
-  color: #333;
-  font-family: "Playfair Display", serif;
-  font-size: 20px;
-  font-weight: 700;
 }
 
 em {

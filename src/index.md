@@ -9,7 +9,7 @@ layout: layouts/base
 
 ## Lead Engineer (Web Team)
 
-**Arnold Clark**
+### Arnold Clark
 
 *July 2018 - present*
 
@@ -17,7 +17,7 @@ layout: layouts/base
 
 ## Front End Engineer
 
-**Arnold Clark**
+### Arnold Clark
 
 *April 2014 - July 2018*
 
@@ -25,7 +25,7 @@ layout: layouts/base
 
 ## Front End Web Developer (contract)
 
-**AmazeRealise**
+### AmazeRealise
 
 *February 2014 - March 2014*
 
@@ -35,7 +35,7 @@ layout: layouts/base
 
 ## Digital Communications Consultant
 
-**Aegon UK**
+### Aegon UK
 
 *August 2013 - February 2014*
 
@@ -47,7 +47,7 @@ layout: layouts/base
 
 ## Website Publisher (contract)
 
-**Forestry Commission Scotland**
+### Forestry Commission Scotland
 
 *May 2013 - August 2013*
 
@@ -59,7 +59,7 @@ layout: layouts/base
 
 ## Web Content Developer (contract)
 
-**Tesco Bank**
+### Tesco Bank
 
 *October 2011 - January 2013*
 
@@ -70,7 +70,7 @@ layout: layouts/base
 
 ## Communications Consultant / Website Administrator
 
-**Aegon UK**
+### Aegon UK
 
 *April 2008 - October 2011*
 
@@ -80,7 +80,7 @@ layout: layouts/base
 
 ## Customer Service Representative
 
-**Aegon UK**
+### Aegon UK
 
 *May 2006 to March 2008*
 
@@ -91,7 +91,7 @@ layout: layouts/base
 
 ## Design Editor
 
-**eh publications LLP**
+### eh publications LLP
 
 *November 2001 - October 2004*
 
@@ -101,7 +101,7 @@ layout: layouts/base
 
 ## BA Degree in Journalism
 
-**Edinburgh Napier University**
+### Edinburgh Napier University
 
 *August 2000 - July 2003*
 
