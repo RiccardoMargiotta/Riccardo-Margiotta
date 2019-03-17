@@ -9,7 +9,7 @@ layout: layouts/base
 
 ### Arnold Clark
 
-*July 2018 - present*
+_July 2018 - present_
 
 - I lead ten engineers in a cross functional team responsible for ArnoldClark.com. I keep the team productive and focused, encourage shipping small and often, and provide mentoring and code reviews.
 - I work closely with the product owner and digital product designer to prioritise new features and improvements, advising on technical challenges and defining acceptance criteria for stories.
@@ -20,7 +20,7 @@ layout: layouts/base
 
 ### Arnold Clark
 
-*April 2014 - July 2018*
+_April 2014 - July 2018_
 
 - Created modern, user-friendly, performant, mobile-first interfaces in React, working closely with UX designers, and making a few tweaks to the Ruby on Rails back-end when required
 - Wrote unit tests for individual React components, end-to-end customer journey integration tests, and post-deploy smoke tests
@@ -30,7 +30,7 @@ layout: layouts/base
 
 ### AmazeRealise
 
-*February 2014 - March 2014*
+_February 2014 - March 2014_
 
 - Built the front-end for the design agency’s client, completed in four weeks
 
@@ -38,7 +38,7 @@ layout: layouts/base
 
 ### Aegon UK
 
-*August 2013 - February 2014*
+_August 2013 - February 2014_
 
 - Completed a full site audit and edited content in advance of a migration to a new CMS
 - Investigated options for an automated site quality checking tool, obtained stakeholder buy-in, and implemented the new tool into workflow
@@ -48,7 +48,7 @@ layout: layouts/base
 
 ### Forestry Commission Scotland
 
-*May 2013 - August 2013*
+_May 2013 - August 2013_
 
 - Created 150+ content pages and developed the site structure for a large relaunch of the FCS website
 - Performed visual and functionality testing, reporting issues to the external development group
@@ -58,7 +58,7 @@ layout: layouts/base
 
 ### Tesco Bank
 
-*October 2011 - January 2013*
+_October 2011 - January 2013_
 
 - Worked on a project team responsible for moving Tesco Bank to a new Responsive design, the first UK bank to do so
 - Optimised and migrated hundreds of pages and images, and completed extensive site testing across multiple browsers, operating systems, mobile devices, and screen resolutions
@@ -67,7 +67,7 @@ layout: layouts/base
 
 ### Aegon UK
 
-*April 2008 - October 2011*
+_April 2008 - October 2011_
 
 - Ran a staff intranet site and worked with contributors to provide daily content updates
 
@@ -75,7 +75,7 @@ layout: layouts/base
 
 ### Aegon UK
 
-*May 2006 - March 2008*
+_May 2006 - March 2008_
 
 - Involved in process improvement initiatives, taking part in Lean Six Sigma awareness training
 - Mentor in an onboarding team created to provide a supportive environment for new starts, provided training for 13 new employees
@@ -84,7 +84,7 @@ layout: layouts/base
 
 ### eh publications LLP
 
-*November 2001 - October 2004*
+_November 2001 - October 2004_
 
 - As part of a university start-up publishing company, launched a commercial Edinburgh-based lifestyle magazine
 
@@ -92,6 +92,6 @@ layout: layouts/base
 
 ### Edinburgh Napier University
 
-*August 2000 - July 2003*
+_August 2000 - July 2003_
 
 - Deputy editor and designer on the student newspaper, created new design templates, and produced each issue
