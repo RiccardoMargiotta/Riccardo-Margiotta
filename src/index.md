@@ -24,7 +24,7 @@ _April 2014 - July 2018_
 
 - Created modern, user-friendly, performant, mobile-first interfaces in React, working closely with UX designers, and making a few tweaks to the Ruby on Rails back-end when required
 - Wrote unit tests for individual React components, end-to-end customer journey integration tests, and post-deploy smoke tests
-- Contributed to Chassis, an internal CSS library providing consistent branding across the company’s projects
+- Contributed to Chassis, an internal CSS framework providing consistent branding across the company’s projects
 
 ## Front End Web Developer (contract)
 
