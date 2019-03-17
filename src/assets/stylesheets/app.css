@@ -15,11 +15,15 @@
   box-sizing: border-box;
 }
 
+html {
+  font-size: 8px;
+}
+
 body {
   background-color: #fafafa;
   display: flex;
   font-family: "Cardo", serif;
-  font-size: 18px;
+  font-size: 2.5rem;
   font-weight: 400;
   justify-content: center;
   margin: 40px 16px;
@@ -37,24 +41,23 @@ h3 {
 
 h1 {
   color: #000;
-  font-size: 36px;
+  font-size: 4rem;
 }
 
 @media only screen and (min-width: 768px) {
   h1 {
-    font-size: 48px;
+    font-size: 6rem;
   }
 }
 
 h2 {
-  font-size: 28px;
+  font-size: 3.5rem;
   margin-bottom: 16px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 2.5rem;
   font-weight: 700;
-  margin-bottom: 4px;
 }
 
 p {
@@ -103,4 +106,5 @@ li + li {
 
 em {
   color: #666;
+  font-size: 2rem;
 }
