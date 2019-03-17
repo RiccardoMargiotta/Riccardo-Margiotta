@@ -14,7 +14,8 @@ layout: layouts/base
 *July 2018 - present*
 
 - I lead 10 engineers in a cross functional team responsible for ArnoldClark.com. I keep the team productive and focused, encourage shipping small and often, and provide mentoring and code reviews.
-- I steer the technical direction of our project, watching out for debt and looking for opportunities with new technology. For example, I’m preparing a code-splitting strategy to take advantage of an upcoming move to HTTP/2, to serve smaller CSS and JavaScript bundles to customers at more appropriate times.
+- I work closely with the product owner and digital product designer to prioritise new features and improvements, advising on technical challenges and defining acceptance criteria for stories.
+- I steer the technical direction of the site, watching out for debt and looking for opportunities with new technology. For example, I’m preparing a code-splitting strategy to take advantage of an upcoming move to HTTP/2, to serve smaller CSS and JavaScript bundles to customers at more appropriate times.
 - I’m glued to New Relic and Google Analytics, always monitoring our site health and looking for opportunities to improve performance.
 
 ---
