@@ -108,3 +108,30 @@ em {
   color: hsl(0, 0%, 40%);
   font-size: 2rem;
 }
+
+@media only print {
+  html {
+    font-size: 6px;
+  }
+
+  body {
+    margin: 0;
+  }
+
+  hr {
+    margin: 24px 0;
+  }
+
+  h3 {
+    display: inline;
+  }
+
+  h3 + p  {
+    display: inline;
+    margin-left: 8px;
+  }
+
+  .container {
+    max-width: 90%;
+  }
+}
