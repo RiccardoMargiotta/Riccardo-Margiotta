@@ -82,7 +82,7 @@ layout: layouts/base
 
 ### Aegon UK
 
-*May 2006 to March 2008*
+*May 2006 - March 2008*
 
 - Involved in process improvement initiatives, taking part in Lean Six Sigma awareness training
 - Mentor in an onboarding team created to provide a supportive environment for new starts, provided training for 13 new employees
