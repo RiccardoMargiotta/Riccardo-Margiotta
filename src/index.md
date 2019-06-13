@@ -14,7 +14,7 @@ _July 2018 - present_
 - I lead ten engineers in a cross functional team responsible for ArnoldClark.com. I keep the team productive and focused, encourage shipping small and often, and provide mentoring and code reviews.
 - I work closely with the product owner and digital product designer to prioritise new features and improvements, advising on technical challenges and defining acceptance criteria for stories.
 - I steer the technical direction of the site, watching out for debt and looking for opportunities with new technology. For example, I’m preparing a code-splitting strategy to take advantage of an upcoming move to HTTP/2, to serve smaller CSS and JavaScript bundles to customers at more appropriate times.
-- I’m glued to New Relic and Google Analytics, always monitoring site health and looking for opportunities to improve performance.
+- I’m glued to New Relic, Google Analytics, and Calibre, always monitoring site health and looking for opportunities to improve performance.
 
 ## Front End Engineer
 
