@@ -32,7 +32,8 @@ body {
 h1,
 h2,
 h3 {
-  font-weight: 700;
+  font-family: "Playfair Display", serif;
+  font-weight: 900;
   line-height: 1.25;
   margin: 0;
 }
@@ -92,7 +93,7 @@ li + li {
 }
 
 .container {
-  max-width: 656px;
+  max-width: 600px;
   width: 100%;
 }
 
