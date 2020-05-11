@@ -11,7 +11,7 @@
   overflow: hidden;
   padding: 0;
   position: absolute;
-  width: 1px
+  width: 1px;
 }
 
 html {
@@ -127,7 +127,7 @@ em {
     display: inline;
   }
 
-  h3 + p  {
+  h3 + p {
     display: inline;
     margin-left: 8px;
   }
