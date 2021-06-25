@@ -13,7 +13,7 @@
     "prettier": "prettier ./**/*.{js,css} --write"
   },
   "dependencies": {
-    "@11ty/eleventy": "^0.11.1",
-    "prettier": "^2.2.1"
+    "@11ty/eleventy": "^0.12.1",
+    "prettier": "^2.3.1"
   }
 }
