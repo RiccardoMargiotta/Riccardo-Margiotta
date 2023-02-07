@@ -107,3 +107,12 @@ hr {
 code[class*="language-"] {
   font-size: 1rem;
 }
+
+// Inline code
+:not(pre) > code {
+  background-color: #e5e5e5;
+  border-radius: 0.2rem;
+  display: inline-flex;
+  font-size: 1rem;
+  padding: 0 0.2rem;
+}
