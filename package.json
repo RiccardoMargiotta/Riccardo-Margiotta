@@ -8,13 +8,17 @@
   "author": "Riccardo Margiotta",
   "license": "ISC",
   "scripts": {
-    "build": "eleventy",
     "dev": "eleventy --serve",
+    "build": "yarn build:clean && yarn build:sass --no-source-map && eleventy",
+    "build:clean": "del './dist'",
+    "build:sass": "sass src/assets/stylesheets:dist/assets/stylesheets",
     "prettier": "prettier ./**/*.{js,css} --write"
   },
   "dependencies": {
     "@11ty/eleventy": "^1.0.2",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
-    "prettier": "^2.8.3"
+    "del-cli": "^5.0.0",
+    "prettier": "^2.8.3",
+    "sass": "^1.58.0"
   }
 }
