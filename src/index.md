@@ -14,7 +14,7 @@ I'll be building it in the open, so you can follow along. The [GitHub repo](http
 ## What's next
 
 - More basic styling and typography
-- CSS build pipeline
+- ~~CSS build pipeline~~
 
 ## Upcoming blog posts
 

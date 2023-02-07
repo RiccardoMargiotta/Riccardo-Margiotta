@@ -1,6 +1,6 @@
 {
   "name": "Riccardo-Margiotta",
-  "description": "A static site for my CV, built with eleventy.",
+  "description": "A static site for my blog, built with eleventy.",
   "repository": {
     "type": "git",
     "url": "https://github.com/RiccardoMargiotta/Riccardo-Margiotta"
