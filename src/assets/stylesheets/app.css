@@ -15,7 +15,7 @@
 }
 
 html {
-  font-size: 8px;
+  font-size: 16px;
 }
 
 body {
@@ -23,7 +23,7 @@ body {
   color: hsl(0, 0%, 20%);
   display: flex;
   font-family: "Cardo", serif;
-  font-size: 2.5rem;
+  font-size: 1.25rem;
   font-weight: 400;
   justify-content: center;
   margin: 0 16px;
@@ -40,28 +40,28 @@ h3 {
 
 h1 {
   color: hsl(0, 0%, 14%);
-  font-size: 4rem;
+  font-size: 2rem;
   margin: 40px 0 80px;
 }
 
 @media only screen and (min-width: 768px) {
   h1 {
-    font-size: 6rem;
+    font-size: 3rem;
   }
 }
 
 h2 {
-  font-size: 3.5rem;
+  font-size: 1.75rem;
   margin-bottom: 16px;
 }
 
 h3 {
-  font-size: 2.5rem;
+  font-size: 1.25rem;
   font-weight: 700;
 }
 
 p {
-  margin: 0;
+  margin: 0 0 1.5rem;
   line-height: 1.5;
 }
 
@@ -99,7 +99,11 @@ li + li {
 
 em {
   color: hsl(0, 0%, 40%);
-  font-size: 2rem;
+  font-size: 1rem;
+}
+
+hr {
+  margin: 2rem 0;
 }
 
 .github {
