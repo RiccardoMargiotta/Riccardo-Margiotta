@@ -105,35 +105,6 @@ hr {
   width: 32px;
 }
 
-@media only print {
-  html {
-    font-size: 6px;
-  }
-
-  h1 {
-    margin: 20px 0;
-  }
-
-  h3 {
-    display: inline;
-  }
-
-  h3 + p {
-    display: inline;
-    margin-left: 8px;
-  }
-
-  ul {
-    list-style-type: disc;
-    margin-bottom: 20px;
-    padding-left: 40px;
-  }
-
-  .container {
-    max-width: 90%;
-  }
-}
-
 code[class*="language-"] {
   font-size: 1rem;
 }
