@@ -18,7 +18,7 @@
     "prettier": "prettier ./**/*.{js,css} --write"
   },
   "dependencies": {
-    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy": "^2.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.2.0",
     "autoprefixer": "^10.4.13",
     "concurrently": "^7.6.0",
