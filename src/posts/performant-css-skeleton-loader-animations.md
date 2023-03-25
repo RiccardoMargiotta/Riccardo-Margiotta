@@ -1,6 +1,5 @@
 ---
 title: "Performant CSS skeleton loader animations"
-layout: layouts/base
 ---
 
 # Performant CSS skeleton loader animations
