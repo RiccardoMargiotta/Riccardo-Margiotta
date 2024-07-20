@@ -2,6 +2,28 @@
 title: "Performant CSS skeleton loader animations"
 ---
 
+I maintain the CSS framework at my work, Chassis. I work at car retailer and we went through a phase of naming everything after car parts - we have Gearbox, Ignition, Piston, even a Carwash... thankfully we soon ran out of good names.A few years back, we saw a number of teams each implementing their own take on skeleton leaders, these little loading states:
+
+.
+
+When that happens, it's a good sign you should take what you've learned, polish it, and make it a part of your component library.(Josh Clark bigmedium post?)
+
+...
+
+When I reviewed the different implementations, there was a common issue - although they looked good, the skeleton loaders weren't particularly smooth. The animation would occasionally stutter and drop frames, especially if a few of them were on screen at once. There was a classic culprit that doesn't always show up on our fancy work MacBooks: some CSS properties are more expensive to animate than others, performance wise.
+
+
+
+...
+
+One last tip - try to match the size of your skeleton loaders to the content that's being loaded in. That way you won't have a jarring reflow of the layout as the new content appears.
+
+...
+
+---
+
+old content 
+
 # Performant CSS skeleton loader animations
 
 Use skeletons as layout placeholders while content is loading. You’ll need to set your own element sizes within your app, it’s recommended to try to match the size of the content that will be loaded in.
