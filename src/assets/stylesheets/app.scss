@@ -26,12 +26,16 @@ h3 {
   line-height: 1.25;
   margin: 0;
 
-  font-family: "BioRhyme", serif;
+  // font-family: "BioRhyme", serif;
+  // font-optical-sizing: auto;
+  // font-weight: 700;
+  // font-style: normal;
+  // font-variation-settings:
+  //   "wdth" 100;
+  font-family: "DM Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 700;
   font-style: normal;
-  font-variation-settings:
-    "wdth" 100;
 }
 
 h1 {
