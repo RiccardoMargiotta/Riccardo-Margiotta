@@ -2,6 +2,8 @@
 title: "Performant CSS skeleton loader animations"
 ---
 
+# Performant CSS skeleton loader animations
+
 I maintain the CSS framework at my work, Chassis. I work at car retailer and we went through a phase of naming everything after car parts - we have Gearbox, Ignition, Piston, even a Carwash... thankfully we soon ran out of good names.A few years back, we saw a number of teams each implementing their own take on skeleton leaders, these little loading states:
 
 .
@@ -21,8 +23,6 @@ One last tip - try to match the size of your skeleton loaders to the content tha
 ---
 
 old content
-
-# Performant CSS skeleton loader animations
 
 Use skeletons as layout placeholders while content is loading. You’ll need to set your own element sizes within your app, it’s recommended to try to match the size of the content that will be loaded in.
 
