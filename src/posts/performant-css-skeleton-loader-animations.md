@@ -12,8 +12,6 @@ When that happens, it's a good sign you should take what you've learned, polish 
 
 When I reviewed the different implementations, there was a common issue - although they looked good, the skeleton loaders weren't particularly smooth. The animation would occasionally stutter and drop frames, especially if a few of them were on screen at once. There was a classic culprit that doesn't always show up on our fancy work MacBooks: some CSS properties are more expensive to animate than others, performance wise.
 
-
-
 ...
 
 One last tip - try to match the size of your skeleton loaders to the content that's being loaded in. That way you won't have a jarring reflow of the layout as the new content appears.
@@ -22,7 +20,7 @@ One last tip - try to match the size of your skeleton loaders to the content tha
 
 ---
 
-old content 
+old content
 
 # Performant CSS skeleton loader animations
 

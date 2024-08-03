@@ -17,7 +17,7 @@
     "build:eleventy": "eleventy",
     "build:sass": "sass src/assets/stylesheets:dist/assets/stylesheets",
     "postbuild": "postcss --replace 'dist/**/*.css'",
-    "prettier": "prettier ./**/*.{js,css} --write"
+    "prettier": "prettier ./**/* --write"
   },
   "dependencies": {
     "@11ty/eleventy": "^2.0.1",

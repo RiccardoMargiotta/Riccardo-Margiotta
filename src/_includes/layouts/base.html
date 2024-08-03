@@ -1,31 +1,40 @@
 <!DOCTYPE html>
 
 <html lang="en-GB">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ title }}</title>
-  <link rel="stylesheet" href="/assets/stylesheets/app.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cardo|Playfair+Display:700,900">
-  <link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon" />
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{{ title }}</title>
+    <link rel="stylesheet" href="/assets/stylesheets/app.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Cardo|Playfair+Display:700,900"
+    />
+    <link rel="icon" href="/assets/images/favicon.ico" type="image/x-icon" />
 
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-36524528-1"></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=UA-36524528-1"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-    gtag('config', 'UA-36524528-1');
-  </script>
-</head>
+      gtag("config", "UA-36524528-1");
+    </script>
+  </head>
 
-<body>
-  <a href="https://github.com/RiccardoMargiotta/Riccardo-Margiotta" class="github">
-    <span class="sr-only">View this site's GitHub repo</span>
-  </a>
-  <div class="container">
-    {{ content }}
-  </div>
-</body>
+  <body>
+    <a
+      href="https://github.com/RiccardoMargiotta/Riccardo-Margiotta"
+      class="github"
+    >
+      <span class="sr-only">View this site's GitHub repo</span>
+    </a>
+    <div class="container">{{ content }}</div>
+  </body>
 </html>
